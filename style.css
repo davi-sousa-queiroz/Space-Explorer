@@ -5,10 +5,10 @@
 
 .navbar {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
     align-items: center;
     background: linear-gradient(to right, rgb(21, 0, 26), rgb(121, 0, 121), rgb(24, 0, 30));
-    padding: 8px 0px;
+    padding: 8px 50px;
     position: sticky relative;
     border: 4px solid rgb(0, 0, 0);
 }
@@ -52,3 +52,90 @@
 .links:hover {
     color: rgb(238, 152, 255);
 }
+
+.hero-vid {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+
+    z-index: 0;
+    position: absolute;
+    inset: 0;
+
+}
+
+.hero-head {
+    z-index: 10;
+    color: white;
+    position: relative;
+    margin: 100px 0px 0px 50px;
+    font-size: 70px;
+    max-width: 600px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-shadow: 0px 0px 333px rgb(179, 0, 255);
+}
+
+.hero-head:hover {
+    font-size: 72px;
+}
+
+.space-exploration {
+    color:rgb(188, 0, 235)
+}
+
+.space {
+    color: rgb(200, 0, 255);
+    font-style: oblique;
+}
+
+.one-click {
+    color:rgb(255, 255, 255);
+    font-style: italic;
+}
+
+.hero-text {
+    position: relative;
+    z-index: 2;
+    color: white;
+}
+
+.hero {
+    position: relative;
+    height: 701px;
+    overflow: hidden;
+}
+
+.paragraph {
+    margin-left: 50px;
+    margin-top: 20px;
+    max-width: 600px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+}
+
+.paragraph:hover {
+    color: rgb(198, 198, 198);
+    font-size: 31px;
+}
+
+.milky-way-button {
+    margin-left: 50px;
+    margin-top: 40px;
+    padding: 10px 10px;
+    background-color: black;
+    color: white;
+    border: 2px solid white;
+    border-radius: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+}
+
+.milky-way-button:hover {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+

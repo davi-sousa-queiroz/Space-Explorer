@@ -163,7 +163,7 @@
     width: 600px;
     height: 600px;
     object-fit: cover;
-    box-shadow: 50px 50px 1000px orangered;
+    box-shadow: 60px 60px 10000px rgb(255, 68, 0);
 }
 
 .star-vid:hover {
@@ -192,4 +192,41 @@
 .stars:hover {
     font-size: 80px;
     color: rgb(255, 255, 255);
+}
+
+.planets {
+    display: flex;
+    background-color: rgb(0, 0, 0);
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+}
+
+.planets-img {
+    height: 400px;
+    width: 600px;
+    margin-top: 200px;
+    margin-bottom: 200px;
+    border: 2px solid white;
+    border-radius: 70px;
+}
+
+.planets-text {
+    max-width: 600px;
+    color: azure;
+}
+
+.planets-header {
+    margin-bottom: 25px;
+}
+
+.planets-text:hover, .planets-paragraph:hover {
+    color:rgb(94, 0, 116);
+    font-size: 16.3px;
+}
+
+.planets-img:hover {
+    border-color: rgb(86, 0, 114);
+    height: 410px;
+    width: 610px;
 }

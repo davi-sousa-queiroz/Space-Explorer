@@ -154,7 +154,7 @@
 
 .star-text {
     color: white;
-    text-shadow: 10px 10px 50px orangered;
+    text-shadow: 0px 0px 300px orangered;
     margin-left: 70px;
 }
 
@@ -191,5 +191,5 @@
 
 .stars:hover {
     font-size: 80px;
-    color: red;
+    color: rgb(255, 255, 255);
 }

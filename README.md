@@ -39,7 +39,7 @@ https://davi-sousa-queiroz.github.io/Space-Explorer/
 
 ## 📸 Preview
 
-![Preview](static/IMG_1269 2.jpg)
+![Preview](static/IMG_1269.jpg)
 
 ---
 

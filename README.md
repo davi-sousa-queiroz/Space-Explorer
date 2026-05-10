@@ -88,4 +88,4 @@ A few weeks ago, HTML and CSS felt completely unfamiliar.
 
 Now you're building cinematic landing pages with structured layouts, interactive sections, and real visual identity.
 
-Keep stacking projects. Keep building. This is only the beginnin
+Keep stacking projects. Keep building. This is only the beginning 

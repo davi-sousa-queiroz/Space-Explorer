@@ -12,7 +12,7 @@ Instead of following a step-by-step tutorial, I designed and structured the site
 
 ## 🚀 Live Demo
 
-.
+https://davi-sousa-queiroz.github.io/Space-Explorer/
 
 ---
 
